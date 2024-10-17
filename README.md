@@ -4,7 +4,7 @@
 **Contact**:  
 - Phone: (+1) 713-359-6070  
 - Email: sn103@rice.edu  
-- [LinkedIn]:(https://www.linkedin.com/in/swarna-nallam/)
+- [LinkedIn](https://www.linkedin.com/in/swarna-nallam/)
 
 ---
 
