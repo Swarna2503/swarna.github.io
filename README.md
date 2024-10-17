@@ -1,4 +1,3 @@
-# swarna.github.io
 # Lakshmi Swarna Durga Nallam
 
 **Contact**:  
