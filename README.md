@@ -1,87 +1,91 @@
-# Lakshmi Swarna Durga Nallam
+# **Lakshmi Swarna Durga Nallam**
 
-**Contact**:  
-- Phone: (+1) 713-359-6070  
-- Email: sn103@rice.edu  
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/swarna-nallam/)
+📞 **Phone**: [+1 713-359-6070](tel:+17133596070)  
+✉️ **Email**: [sn103@rice.edu](mailto:sn103@rice.edu)  
+🔗 **LinkedIn**: [linkedin.com/in/swarna-nallam](https://www.linkedin.com/in/swarna-nallam/)
 
 ---
 
-## Education
+## 🎓 **Education**
 
 **Rice University**  
 *Houston, TX*  
-*Masters in Computer Science*  
-*Aug. 2024 – Dec 2025*
+**Master's in Computer Science**  
+*Aug 2024 – Dec 2025*
 
 **SRM University**  
 *Andhra Pradesh, India*  
-*B.Tech (GPA: 8.55)*  
-*Aug. 2019 – May 2023*
+**B.Tech (GPA: 8.55)**  
+*Aug 2019 – May 2023*
 
 ---
 
-## Experience
+## 💼 **Experience**
 
-**AEM Developer**  
-*Barclays, Chennai, India*  
-*July 2023 – July 2024*
+### **AEM Developer**  
+**Barclays** — *Chennai, India*  
+*July 2023 – July 2024*  
 
-- Designed and developed customized components in Adobe Experience Manager (AEM).
-- Enhanced an AEM-based platform, enabling business stakeholders to design marketing web pages for various co-branded Barclays credit card products in the US Consumer sector.
-- Conducted comprehensive code reviews to ensure adherence to best practices and coding standards.
-- Managed CI/CD pipelines to ensure seamless integration, testing, and deployment of AEM projects.
+- Developed customized components in **Adobe Experience Manager (AEM)**.
+- Enhanced AEM-based platform, empowering business stakeholders to design marketing web pages for **co-branded Barclays credit card** products.
+- Led **code reviews** ensuring adherence to best practices and standards.
+- Managed **CI/CD pipelines** for seamless integration, testing, and deployment.
 
-**Advanced Data Science Intern**  
-*APSSDC, Indo-Euro Synchronization*  
-*March 2022 – August 2022*
+### **Advanced Data Science Intern**  
+**APSSDC, Indo-Euro Synchronization**  
+*March 2022 – August 2022*  
 
-- Worked under the guidance of Hochschule Kempten University of Applied Sciences, APSSDC, IES.
-- Conducted frequency-based rewards programs, boosting customer engagement by 84%.
-- Implemented marketing strategies based on customer segmentation and product associations, enhancing overall sales performance.
+- Collaborated with **Hochschule Kempten University of Applied Sciences** on a research project.
+- Conducted **frequency-based rewards programs**, increasing customer engagement by **84%**.
+- Implemented strategic **marketing techniques** based on customer segmentation, enhancing overall sales performance.
 
-**Research Intern**  
-*SRM University*  
-*June 2021 – July 2021*
+### **Research Intern**  
+**SRM University**  
+*June 2021 – July 2021*  
 
-- Analyzed COVID-19 trends between the first and second waves in India with Prof. Hiren.
-- Performed linear regression on smoothed data to find correlations between attributes.
-- Found the second wave had 344% more cases and deaths than the first wave, despite a lower fatality rate.
-- Published the study, "The Time Series Analysis of COVID-19 Waves in India for Social Good," in *Augmented Intelligence in Healthcare*.
+- Analyzed **COVID-19** trends with **Prof. Hiren**, focusing on **transmission rates**, stringency index, and vaccination effects.
+- Conducted **linear regression** to correlate attributes, identifying that the second wave had **344% more cases and deaths** despite lower fatality rates.
+- Published research: *"The Time Series Analysis of COVID-19 Waves in India for Social Good"* in *Augmented Intelligence in Healthcare*.
 
 ---
 
-## Projects
+## 🚀 **Projects**
 
-**Search Engine for UNESCO Heritage Sites**  
-*Python, React, numpy, pandas, Scikit*  
-*Dec 2022 – Jan 2023*
+### **Search Engine for UNESCO Heritage Sites**  
+*Python, React, NumPy, pandas, Scikit-learn*  
+*Dec 2022 – Jan 2023*  
 
-- Extracted data on UNESCO heritage sites, including site name, location, year, and description.
-- Applied term frequency, inverse document frequency, and BM25 algorithms for data analysis.
-- Achieved a relevance ranking with 97% accuracy, improving search efficiency and information retrieval.
+- Developed a search engine for **UNESCO Heritage Sites** data, applying **TF-IDF** and **BM25 algorithms** for relevance scoring.
+- Achieved **97% accuracy** in ranking search results, improving information retrieval and user experience.
 
-**Prediction Analysis on Breast Cancer**  
+### **Prediction Analysis on Breast Cancer**  
 *R, Hadoop, Hive*  
-*Oct 2022 – Nov 2023*
+*Oct 2022 – Nov 2023*  
 
-- Utilized the Breast Cancer Wisconsin (Diagnostic) dataset from the UCI Machine Learning Repository.
-- Generated a regression tree for classifying the data, resulting in six distinct conditions.
-- Created a cancer prediction table in Hive based on the regression tree conditions.
+- Leveraged the **Breast Cancer Wisconsin (Diagnostic)** dataset to build a **regression tree**, identifying six key conditions for classification.
+- Created a **prediction table** in Hive based on the conditions derived from the regression tree.
 
-**Research Project on Facial Emotion Detection**  
-*Tensorflow, DeepFace*  
-*Nov 2021 – March 2022*
+### **Facial Emotion Detection Project**  
+*TensorFlow, DeepFace*  
+*Nov 2021 – Mar 2022*  
 
-- Implemented a facial emotion detection model using the DeepFace architecture, classifying seven emotions.
-- Integrated a webcam video feed for real-time emotion detection.
+- Built a **facial emotion detection model** using **DeepFace architecture**, classifying seven emotions (happy, disgust, surprise, fear, sad, neutral, anger).
+- Integrated **real-time video feed** for emotion classification from webcam inputs.
 
 ---
 
-## Technical Skills
+## 🛠 **Technical Skills**
 
-**Languages**: Python, Ruby, C/C++, SQL, Java, JavaScript, HTML/CSS, R, Hive  
-**Frameworks**: Rails, Hadoop, Hive, React, Node.js, AEM 6.5, JUnit, WordPress  
-**Developer Tools**: Git, Docker, Google Cloud Platform, VS Code, Visual Studio, PyCharm, IntelliJ, Eclipse  
-**Libraries**: pandas, NumPy, Matplotlib, scikit-learn, tensorflow
+**Languages**:  
+`Python`, `Ruby`, `C/C++`, `SQL`, `Java`, `JavaScript`, `HTML/CSS`, `R`, `Hive`
 
+**Frameworks**:  
+`Rails`, `Hadoop`, `React`, `Node.js`, `AEM 6.5`, `JUnit`, `WordPress`
+
+**Developer Tools**:  
+`Git`, `Docker`, `Google Cloud Platform`, `VS Code`, `Visual Studio`, `PyCharm`, `IntelliJ`, `Eclipse`
+
+**Libraries**:  
+`pandas`, `NumPy`, `Matplotlib`, `scikit-learn`, `TensorFlow`
+
+---
